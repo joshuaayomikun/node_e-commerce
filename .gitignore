@@ -3,3 +3,5 @@ node_modules
 views/swagger-ui
 swagger.js
 swagger.json
+
+.DS_STORE
